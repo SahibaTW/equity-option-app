@@ -1,5 +1,8 @@
 streamlit
 pandas
 numpy
+scipy
+matplotlib
+seaborn
 yfinance
 openpyxl
