@@ -2,7 +2,9 @@ streamlit
 pandas
 numpy
 scipy
-matplotlib
-seaborn
 yfinance
 openpyxl
+matplotlib
+seaborn
+requests
+streamlit-lottie
